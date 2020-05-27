@@ -1,0 +1,16 @@
+{
+  "domain": "genie_aladdin",
+  "name": "Genie Aladdin",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/genie_aladdin",
+  "requirements": [
+    "genie_aladdin==2020.05.01"
+  ],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@aijayadams"
+  ]
+}
